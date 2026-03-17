@@ -28,6 +28,9 @@ Grado y Grupo: 6J.
 
 
 ![alt text](image.png)
+<img width="465" height="790" alt="image" src="https://github.com/user-attachments/assets/06ff697f-809e-429c-8bf3-c85438173971" />
+<img width="466" height="784" alt="image" src="https://github.com/user-attachments/assets/6898989c-771e-4682-bef0-29949bf88e02" />
+
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
