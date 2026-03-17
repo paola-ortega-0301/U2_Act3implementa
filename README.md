@@ -31,7 +31,7 @@ Grado y Grupo: 6J.
 <img width="465" height="790" alt="image" src="https://github.com/user-attachments/assets/06ff697f-809e-429c-8bf3-c85438173971" />
 <img width="466" height="784" alt="image" src="https://github.com/user-attachments/assets/6898989c-771e-4682-bef0-29949bf88e02" />
 
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="345" height="485" alt="image" src="https://github.com/user-attachments/assets/d9ab325d-1201-4d17-bc4c-d673ffa140de" />
+<img width="349" height="510" alt="image" src="https://github.com/user-attachments/assets/bcde1400-0338-4dc1-aa8f-75ccc895ef47" />
 ![alt text](image-3.png)
 ![alt text](image-4.png)
