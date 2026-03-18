@@ -27,7 +27,7 @@ class ServiciosPage extends StatelessWidget {
                   ClipRRect(
                     borderRadius: BorderRadius.circular(15),
                     child: Image.network(
-                      "https://raw.githubusercontent.com/paola-ortega-0301/imagenes-pantalla/refs/heads/main/1.jpg",
+                      "https://raw.githubusercontent.com/paola-ortega-0301/Imagenes-Unidad-2/refs/heads/main/3.jpg",
                       height: 200,
                       width: 200,
                       fit: BoxFit.contain,
