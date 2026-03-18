@@ -18,7 +18,7 @@ class InicioPage extends StatelessWidget {
                 children: [
                   const Text("Organiza tus eventos aquí", style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
                   const SizedBox(height: 30),
-                  Image.network("https://raw.githubusercontent.com/paola-ortega-0301/imagenes-pantalla/refs/heads/main/1.jpg", height: 200),
+                  Image.network("https://raw.githubusercontent.com/paola-ortega-0301/Imagenes-Unidad-2/refs/heads/main/1.jpg", height: 200),
                   const SizedBox(height: 30),
                   ElevatedButton(
                     onPressed: () => Navigator.pushNamed(context, '/servicios'),
