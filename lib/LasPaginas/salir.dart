@@ -25,7 +25,7 @@ class SalirPage extends StatelessWidget {
                   const SizedBox(height: 30),
                   // Imagen de despedida desde GitHub
                   Image.network(
-                    "https://raw.githubusercontent.com/paola-ortega-0301/imagenes-pantalla/refs/heads/main/1.jpg",
+                    "https://raw.githubusercontent.com/paola-ortega-0301/Imagenes-Unidad-2/refs/heads/main/5.jpg",
                     height: 200,
                     width: 200,
                     fit: BoxFit.contain,
