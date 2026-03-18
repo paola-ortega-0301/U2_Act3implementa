@@ -27,11 +27,14 @@ Grado y Grupo: 6J.
 
 
 
-![alt text](image.png)
-<img width="465" height="790" alt="image" src="https://github.com/user-attachments/assets/06ff697f-809e-429c-8bf3-c85438173971" />
-<img width="466" height="784" alt="image" src="https://github.com/user-attachments/assets/6898989c-771e-4682-bef0-29949bf88e02" />
+<img width="285" height="473" alt="image" src="https://github.com/user-attachments/assets/d1a69f67-54c8-4429-bce0-02f6ca6c8bcf" />
+<img width="280" height="472" alt="image" src="https://github.com/user-attachments/assets/88187424-34e3-4fc0-b815-238aae2a2a89" />
+<img width="279" height="469" alt="image" src="https://github.com/user-attachments/assets/5bdce326-9f66-4e84-9b1d-c01556eb64cf" />
+<img width="273" height="478" alt="image" src="https://github.com/user-attachments/assets/a1791367-740a-44ae-9264-c6050007e7e8" />
+<img width="275" height="475" alt="image" src="https://github.com/user-attachments/assets/b68cd45e-92fd-4a23-a29e-a634daa2fcdf" />
+
 
 <img width="345" height="485" alt="image" src="https://github.com/user-attachments/assets/d9ab325d-1201-4d17-bc4c-d673ffa140de" />
 <img width="349" height="510" alt="image" src="https://github.com/user-attachments/assets/bcde1400-0338-4dc1-aa8f-75ccc895ef47" />
-![alt text](image-3.png)
-![alt text](image-4.png)
+<img width="346" height="485" alt="image" src="https://github.com/user-attachments/assets/53b68b2e-385c-412e-b677-f289ce7e16c1" />
+<img width="344" height="455" alt="image" src="https://github.com/user-attachments/assets/857bc4d3-d509-43ed-b933-88794ccc48b2" />
