@@ -25,7 +25,7 @@ class PerfilPage extends StatelessWidget {
                   const CircleAvatar(
                     radius: 100,
                     backgroundImage: NetworkImage(
-                      "https://raw.githubusercontent.com/paola-ortega-0301/imagenes-pantalla/refs/heads/main/1.jpg",
+                      "https://raw.githubusercontent.com/paola-ortega-0301/Imagenes-Unidad-2/refs/heads/main/4.png",
                     ),
                   ),
                   const SizedBox(height: 20),
